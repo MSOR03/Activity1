@@ -118,6 +118,12 @@ Adicionalmente se muestra la interpolación de color en el Fragment Shader: las 
 
 Demostración de los campos en la interfaz de Unity que permiten modificar en tiempo real la amplitud, frecuencia y velocidad de las ondas, mostrando la flexibilidad del uso de uniforms para control dinámico del shader.
 
+### Visualización 3: material
+
+![Wave Shader - Material](./media/material.png)
+
+Material creado a partir del shader, el cual es el que finalmente se le aplica a un objeto para alterar su mesh.
+
 ---
 
 ## Código relevante
