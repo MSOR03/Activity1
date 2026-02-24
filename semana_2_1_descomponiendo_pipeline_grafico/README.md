@@ -112,7 +112,7 @@ Vista general del plano deformado por el Vertex Shader, mostrando el movimiento 
 
 Adicionalmente se muestra la interpolación de color en el Fragment Shader: las zonas altas (crestas) se renderizan en rojo, las zonas medias en verde y las zonas bajas (valles) en azul. Este efecto se logra pasando la altura como varying desde el Vertex Shader y utilizándola para calcular el color final.
 
-### Visualización 2: Control de parámetros (opcional)
+### Visualización 2: Control de parámetros
 
 ![Wave Shader - Controles UI](./media/wave_shader_controls.gif)
 
